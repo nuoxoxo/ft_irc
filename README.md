@@ -87,7 +87,7 @@ Login                     | login
 &nbsp;                    | `USER usr * * Usr`
 &nbsp;                    |
 __/join__                 | 
-`irssi`                   | __/joi__ __/jo__
+`irssi`                   | `/joi` `/jo`
 &nbsp;                    |
 __/DCC__                  | send files
 `irssi`                   | `/dcc send <~@~user> /mnt/nfs/homes/USR/DIR/log1`
