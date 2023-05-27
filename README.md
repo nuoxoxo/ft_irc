@@ -1,35 +1,6 @@
 ![](https://img.shields.io/badge/C++-Internet&nbsp;Relay&nbsp;Chat-red.svg?style=flat&logo=c%2B%2B)
 
 
-# Subject change:
-
-![](https://cdn.discordapp.com/attachments/774304974862549032/1103301987082195106/image.png)
-
-
-# Todos
-
-
-__moderated room__ :: to retry m mode 
-- (todo)
-
-
-__a tiny bot__ :: to try with partner
-- (todo)
-
-
-__Makefile__ :: add usage
-- [ ] Run server side:
-  - `$ ./ircserv <port> <pass>`
-- [ ] Run client side:
-  - Irssi - `$ ./irssi` then `/connect <host> <port> <pass>`
-  - Netcat - `$ nc <hostip> <port>` `PASS _`
-
-
-
-
----
-
-
 # User mode
 <kbd> {[+|-] |r|o} </kbd>
 
@@ -198,3 +169,8 @@ eg. `john!johndoe@example.com`
 - `+` - Used to indicate a mode change to grant a user voice in a channel
 - `%` - Used to indicate a mode change to grant a user operator status in a channel
 - `.` - Used in some commands to separate the server name from the command or argument
+
+
+# Subject change:
+
+![](https://cdn.discordapp.com/attachments/774304974862549032/1103301987082195106/image.png)
